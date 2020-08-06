@@ -1,0 +1,3 @@
+# worlds that should NOT be loaded automatically
+doNotLoad:
+  - "anExampleWorld"
